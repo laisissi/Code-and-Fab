@@ -1,3 +1,4 @@
+// GitHub Setup Practice - This is a message proving update committed!
 // Lai_Sissi_Sensor_Practice
 
 int sensorPin = A0; // photoresistor connected to A0
