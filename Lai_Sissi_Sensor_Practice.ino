@@ -1,6 +1,7 @@
 // GitHub Setup Practice - This is a message proving update committed!
 // Lai_Sissi_Sensor_Practice
 // Lana was here too
+// Josiah was here as well...
 
 int sensorPin = A0; // photoresistor connected to A0
 int ledPin = 13;    // LED on pin 13
